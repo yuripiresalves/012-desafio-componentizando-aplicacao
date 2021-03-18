@@ -1,4 +1,5 @@
 import { MovieCard } from './MovieCard';
+import '../styles/content.scss';
 
 interface MovieProps {
   Title: string;

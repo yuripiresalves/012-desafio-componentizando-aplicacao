@@ -1,4 +1,5 @@
 import { Button } from './Button';
+import '../styles/sidebar.scss';
 
 interface GenreResponseProps {
   id: number;
